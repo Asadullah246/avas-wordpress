@@ -1,0 +1,414 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inb",
+				"inbiz-core"
+			],
+			[
+				"inbi",
+				"inbiz-core"
+			],
+			[
+				"TX",
+				"TX_Helper"
+			],
+			[
+				"portf",
+				"portfolio"
+			],
+			[
+				"get_theme",
+				"get_theme_mod"
+			],
+			[
+				"por",
+				"portfolio"
+			],
+			[
+				"B",
+				"BusinessConsultant"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"sprintf",
+				"wp_sprintf"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/inbiz-core.php",
+			"settings":
+			{
+				"buffer_size": 1989,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/inbiz-core.php",
+		"/D/xampp/htdocs/elementor/wp-content/plugins/live-copy-paste/classes/class-live-copy-paste-btn.php",
+		"/D/xampp/htdocs/elementor/wp-content/plugins/live-copy-paste/includes/settings/controls.php",
+		"/D/xampp/htdocs/elementor/wp-content/plugins/live-copy-paste/includes/settings/options.php",
+		"/D/xampp/htdocs/elementor/wp-content/plugins/live-copy-paste/includes/duplicator/class-duplicator.php",
+		"/D/xampp/htdocs/elementor/wp-content/plugins/live-copy-paste/classes/class-live-copy-paste-loader.php",
+		"/D/xampp/htdocs/elementor/wp-content/plugins/live-copy-paste/classes/class-live-copy-paste-magic-btn.php",
+		"/D/xampp/htdocs/elementor/wp-content/plugins/live-copy-paste/assets/css/live-copy-paste-public.css",
+		"/D/xampp/htdocs/elementor/wp-content/plugins/live-copy-paste/assets/js/live-copy-paste.js",
+		"/D/xampp/htdocs/elementor/wp-content/plugins/live-copy-paste/assets/js/live-copy-paste-public.js",
+		"/D/xampp/htdocs/elementor/wp-content/plugins/live-copy-paste/assets/js/xdLocalStorage.js",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/modules/search/widgets/search.php",
+		"/D/xampp/htdocs/elementor/wp-content/plugins/live-copy-paste/live-copy-paste.php",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/modules/menu/widgets/menu.php",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/inc/enqueue.php",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/assets/css/style.css",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/modules/popup/widgets/popup.php",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/modules/portfolio-plus/widgets/portfolio-plus.php",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/assets/js/imagesloaded.pkgd.min.js",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/themebuilder/classes/templates_library.php",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/modules/profile/widgets/profile.php",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/modules/profile-carousel/widgets/profile-carousel.php",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/modules/slider/widgets/slider.php",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/modules/sticky-section/module.php",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/modules/table/widgets/table.php",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/modules/wrapper-link/module.php",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/assets/js/widgets/menu/menu.js",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/modules/logo/widgets/logo.php",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/modules/flip-box/widgets/flip-box.php",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/modules/features/widgets/features.php",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/assets/js/widgets/lottie/tx-lottie.min.js",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/assets/css/style-rtl.css",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/assets/css/widgets/fonts/tx.svg",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/assets/css/widgets/slider/slider.min.css",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/assets/css/style.min.css",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/assets/css/style-rtl.min.css",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/inc/modules-manager.php",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/assets/js/carousel-widgets.min.js",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/assets/js/carousel-widgets.js",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/modules/animated-heading/widgets/animated-heading.php",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/modules/animated-shape/widgets/animated-shape.php",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/modules/banner/widgets/banner.php",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/modules/animated-heading/module.php",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core - Copy (7)/modules/animated-heading/widgets/animated-heading.php",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/inc/cpt.php",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/inc/customizer.php",
+		"/D/xampp/htdocs/wp-test/wp-content/themes/future/single.php",
+		"/D/xampp/htdocs/wp-test/wp-content/themes/future/comments.php",
+		"/D/xampp/htdocs/wp-test/wp-content/themes/future/inc/future-comment.php",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/inc/breadcrumbs.php",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/inc/functions.php",
+		"/D/xampp/htdocs/inbiz/wp-config.php",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/inc/widgets/text-widget.php",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/inc/widgets/recent-post-widget.php",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/inc/helper.php",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/inc/widgets/posts-gallery-widget.php",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/modules/post-list/widgets/post-list.php",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/modules/portfolio-carousel/widgets/portfolio-carousel.php",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/modules/portfolio/widgets/portfolio.php",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/inc/meta/post.php",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/modules/timeline/widgets/timeline.php",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/modules/circle-info/widgets/circle-info.php",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/modules/hotspot/widgets/hotspot.php",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/modules/flipster/widgets/flipster.php",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/modules/background-clip-text/widgets/background-clip-text.php",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/modules/background-slider/module.php",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/modules/breadcrumbs/widgets/breadcrumbs.php",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/modules/button/widgets/button.php",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/modules/call-to-action/widgets/call-to-action.php",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/inc/handler.php",
+		"/D/xampp/htdocs/elementor/wp-content/plugins/bdthemes-element-pack/modules/chart/widgets/chart.php",
+		"/D/xampp/htdocs/elementor/wp-content/plugins/bdthemes-element-pack/modules/adblock-detector/module.php",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/assets/js/widgets/animated-heading/animated-heading.js",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/modules/heading/widgets/heading.php",
+		"/D/xampp/htdocs/wp-test/wp-content/plugins/future-core/elementor-widgets/tx-brand/tx-brand-widget.php",
+		"/D/xampp/htdocs/wp-test/wp-content/plugins/future-core/element-init.php",
+		"/D/xampp/htdocs/wp-test/wp-content/plugins/future-core/future-core.php",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/assets/js/theme-builder.min.js",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/base/module-base.php",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/themebuilder/themebuilder.php",
+		"/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/themebuilder/classes/utilities.php",
+		"/D/xampp/htdocs/avas/wp-content/themes/avas/import/import-slider.php",
+		"/D/xampp/htdocs/avas/wp-content/themes/avas/import/import-files.php",
+		"/D/xampp/htdocs/avas/wp-content/themes/avas/inc/import.php",
+		"/C/Users/Neon/AppData/Local/Temp/FileZillaPortableTemp/fz3temp-2/avas.json",
+		"/C/Users/Neon/AppData/Local/Temp/FileZillaPortableTemp/fz3temp-2/avas-core.json",
+		"/C/Users/Neon/AppData/Local/Temp/FileZillaPortableTemp/fz3temp-2/tx-fab.php",
+		"/C/Users/Neon/AppData/Local/Temp/Rar$DIa6400.42106.rartemp/js_composer.php",
+		"/C/Users/Neon/AppData/Local/Temp/Rar$DIa6400.40522.rartemp/js_composer.php",
+		"/C/Users/Neon/AppData/Local/Temp/Rar$DIa9428.36955.rartemp/js_composer.php",
+		"/D/xampp/htdocs/avas/wp-content/themes/avas/inc/theme-options.php",
+		"/D/xampp/htdocs/inbiz/wp-content/themes/inbiz/style.css",
+		"/C/Users/Neon/AppData/Local/Temp/Rar$DIa7732.32904.rartemp/revslider.php",
+		"/D/xampp/htdocs/avas/wp-content/themes/avas/inc/class-updates.php",
+		"/D/xampp/htdocs/avas/wp-content/themes/avas/inc/welcome.php",
+		"/D/avas/___NEW/__license activated manually/avas-child/avas-child/style.css",
+		"/D/avas/___NEW/__license activated manually/avas-child/avas-child/functions.php",
+		"/D/avas/___NEW/__license activated manually/avas-child/avas-child/admin.css",
+		"/D/xampp/htdocs/avas/wp-content/themes/avas/assets/css/main.min.css",
+		"/D/xampp/htdocs/avas/wp-content/themes/avas/assets/css/main.css",
+		"/D/xampp/htdocs/avas/wp-content/themes/avas/inc/mega-menu.php",
+		"/D/xampp/htdocs/avas/wp-content/themes/avas/functions.php",
+		"/C/Users/Neon/AppData/Local/Temp/FileZillaPortableTemp/fz3temp-2/mega-menu.php",
+		"/D/xampp/htdocs/avas/wp-content/themes/avas/style.css",
+		"/C/Users/Neon/AppData/Local/Temp/Rar$DIa8724.9000.rartemp/mega-menu.php",
+		"/C/Users/Neon/AppData/Local/Temp/FileZillaPortableTemp/fz3temp-2/wp-config.php",
+		"/C/Users/Neon/AppData/Local/Temp/FileZillaPortableTemp/fz3temp-2/functions.php",
+		"/C/Users/Neon/AppData/Local/Temp/Rar$DIa8248.32591.rartemp/import.php",
+		"/C/Users/Neon/AppData/Local/Temp/FileZillaPortableTemp/fz3temp-2/functions 2.php",
+		"/D/xampp/htdocs/avas/wp-content/themes/avas/assets/css/portfolio.css",
+		"/D/xampp/htdocs/avas/wp-content/themes/avas/assets/css/portfolio.min.css",
+		"/D/xampp/htdocs/avas/wp-content/plugins/avas-core/inc/enqueue.php",
+		"/D/xampp/htdocs/avas/wp-content/themes/avas/learnpress/lp-functions.php",
+		"/D/xampp/htdocs/avas/wp-content/themes/avas/learnpress/archive-course.php",
+		"/D/xampp/htdocs/avas/wp-content/themes/avas/inc/enqueue.php",
+		"/D/xampp/htdocs/avas/wp-content/themes/avas/template-parts/header/menu/mobile-menu.php",
+		"/D/xampp/htdocs/avas/wp-content/themes/avas/template-parts/header/menu/main-menu.php",
+		"/D/xampp/htdocs/avas/wp-content/themes/avas/assets/js/mobile-nav.js",
+		"/D/xampp/htdocs/avas/wp-content/themes/avas/learnpress/content-course.php",
+		"/D/xampp/htdocs/avas/wp-content/themes/avas/assets/css/learnpress.css",
+		"/D/xampp/htdocs/avas/wp-content/themes/avas/assets/css/learnpress.min.css",
+		"/D/xampp/htdocs/avas/wp-content/plugins/learnpress/templates/loop/course/thumbnail.php",
+		"/D/xampp/htdocs/avas/wp-content/themes/avas/inc/functions.php",
+		"/D/xampp/htdocs/avas/wp-content/themes/avas/header.php",
+		"/D/xampp/htdocs/avas/wp-content/debug.log",
+		"/D/xampp/htdocs/avas/wp-content/plugins/learnpress/templates/content-course.php",
+		"/D/xampp/htdocs/avas/wp-content/themes/avas/learnpress/courses-top-bar.php",
+		"/D/xampp/htdocs/avas/wp-content/themes/avas/learnpress/loop/course/price.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"before using it",
+			"addFilter",
+			"bdtLiveCopyLocalStorage",
+			"MINIMUM_PHP_VERSION",
+			"Group_Control_Border",
+			"Group_Control_Background",
+			"REPEATER",
+			"background",
+			"mobile-nav-toggle",
+			"res_menu_txt",
+			"avas",
+			"'avas'",
+			"avas",
+			".navbar a",
+			"add_setting",
+			"sanitize_text_field",
+			"excerpt_limit",
+			"TX_Helper",
+			"TX_Load",
+			"excerpt_limit",
+			"avas_text",
+			"Avas",
+			"text_domain",
+			"date",
+			"REPEATER",
+			"image size",
+			"custom_content",
+			"custom_icon_image",
+			"excer",
+			"tx_excerpt",
+			"REPEATER",
+			"TX_Theme_Name",
+			"afolio",
+			"portfolio_slug"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"tx-mobile-nav-toggle",
+			"'inbiz-core'",
+			"tx",
+			"inbiz",
+			"tx",
+			"inbiz"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/xampp/htdocs/inbiz/wp-content/plugins/inbiz-core/inbiz-core.php",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1989,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								921,
+								935
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 324.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "inbiz-core.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 290.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
